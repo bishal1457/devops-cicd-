@@ -1,5 +1,5 @@
 # Docker Deployment Todo App with githubactions
-# This is test of pipeline automation.
+# First pipeline test. 
 This repository contains the source code and configuration files for deploying a Todo application using Docker and Docker Compose.
 
 ---
